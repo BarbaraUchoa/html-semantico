@@ -14,7 +14,7 @@ Teste di *ítalico*
 * Pepino
 * Gergelin
 * Kani
-* shoyu
+
 - Banana
 - Maçã
 - Abacaxi
